@@ -1,6 +1,6 @@
 package programmerzamannow.sealedclass.data;
 
-public non-sealed class Manager extends Employee{
+public final class ManagerTest extends Manager{
 
     private String department;
 
